@@ -34,6 +34,10 @@ This repository contains beginner-friendly learning content across AI, DevOps, D
 ### MERN
 - [JavaScript](./MERN/JavaScript/README.md)
 - [React JS](./MERN/React%20JS/README.md)
+- [Node JS](./MERN/Node%20JS/README.md)
+- [MongoDB](./MERN/MongoDB/README.md)
+- [MERN Project](./MERN/Project/README.md)
+- [MERN 30-Day Practice Plan](./MERN/30-day-practice-plan.md)
 
 ### Native APP
 - [Electron JS](./Native%20APP/Electron%20JS/README.md)
@@ -43,6 +47,13 @@ This repository contains beginner-friendly learning content across AI, DevOps, D
 - [QA course](./QA/README.md)
 - [Manual Testing](./QA/Manual%20Testing/README.md)
 - [Test Automation](./QA/Test%20Automation/README.md)
+
+## Practice Plans
+
+- [MERN 30-Day Practice Plan](./MERN/30-day-practice-plan.md)
+- [React JS 30-Day Practice Plan](./MERN/React%20JS/30-day-practice-plan.md)
+- [Node JS 30-Day Practice Plan](./MERN/Node%20JS/30-day-practice-plan.md)
+- [MongoDB 30-Day Practice Plan](./MERN/MongoDB/30-day-practice-plan.md)
 
 ## How to Use This Repository
 

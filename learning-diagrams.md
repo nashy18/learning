@@ -32,6 +32,9 @@ flowchart TD
 
     G --> G1[JavaScript]
     G --> G2[React JS]
+    G --> G3[Node JS]
+    G --> G4[MongoDB]
+    G --> G5[MERN Project]
 
     H --> H1[Electron JS]
     H --> H2[React Native]
@@ -42,6 +45,9 @@ flowchart TD
     C1 --> C_Deploy[AI Deployment Basics]
     D4 --> D_CI[CI/CD Pipelines]
     G2 --> G_Frontend[Front-End App Development]
+    G3 --> G_Backend[Backend API Development]
+    G4 --> G_Data[Database Integration]
+    G5 --> G_Launch[MERN Project Launch]
     H2 --> H_Mobile[Mobile App Deployment]
     I2 --> I_CI[QA in CI/CD]
 
@@ -69,6 +75,9 @@ flowchart LR
     JS --> React[React JS]
     JS --> Electron[Electron JS]
     JS --> ReactNative[React Native]
+    JS --> Node[Node JS]
+
+    Node --> Mongo[MongoDB]
 
     Python --> ML[Machine Learning]
     Python --> EDA[Exploratory Data Analysis]
@@ -93,6 +102,8 @@ flowchart LR
     CV --> AI[AI Applications]
     NLP --> AI
     React --> MERN[MERN Apps]
+    Node --> MERN
+    Mongo --> MERN
     Electron --> Native[Native App Development]
     ReactNative --> Native
 
@@ -114,6 +125,8 @@ flowchart LR
     style React fill:#ffe7f0,stroke:#b83280
     style ReactNative fill:#ffe7f0,stroke:#b83280
     style Electron fill:#ffe7f0,stroke:#b83280
+    style Node fill:#fff0b2,stroke:#dd6b20
+    style Mongo fill:#d8d1f9,stroke:#6b46c1
     style ML fill:#c6f6d5,stroke:#2f855a
     style EDA fill:#c6f6d5,stroke:#2f855a
     style IaC fill:#bee3f8,stroke:#2b6cb0
